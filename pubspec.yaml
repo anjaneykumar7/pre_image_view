@@ -1,6 +1,6 @@
 name: pre_image_view
-description: "A new Flutter package project."
-version: 0.0.1
+description: "A versatile Flutter image widget that simplifies displaying various image types (PNG, SVG, Lottie animations) from different sources with advanced customization options."
+version: 0.0.2
 homepage: "https://github.com/anjaneykumar7/pre_image_view"
 
 environment:

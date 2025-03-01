@@ -175,9 +175,9 @@ This package depends on:
 - [flutter_svg](https://pub.dev/packages/flutter_svg) for SVG rendering
 - [lottie](https://pub.dev/packages/lottie) for Lottie animations
 
-## Example
+<!-- ## Example
 
-For a complete example, see the [example](https://github.com/username/pre_image_view/tree/main/example) directory.
+For a complete example, see the [example](https://github.com/username/pre_image_view/tree/main/example) directory. -->
 
 ## Contributing
 
@@ -198,4 +198,3 @@ This README provides comprehensive documentation for your PreImageView package, 
 6. Dependencies information
 7. Links to example code and license
 
-You may want to add actual screenshots or GIFs to make the documentation more visual. Also, update the GitHub repository URL when you publish the package.
