@@ -1,8 +1,5 @@
 # PreImageView Documentation
 
-I'll create a comprehensive README for your PreImageView package. Here's the updated documentation:
-
-```markdown:/Users/anjaneykumar/Av/2025/FlutterPackages/pre_image_view/README.md
 # PreImageView
 
 A versatile Flutter image widget that simplifies displaying various image types (PNG, SVG, Lottie animations) from different sources (assets, network, file) with advanced customization options.
@@ -186,7 +183,6 @@ Contributions are welcome! If you find a bug or want a feature, please open an i
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 This README provides comprehensive documentation for your PreImageView package, including:
 
